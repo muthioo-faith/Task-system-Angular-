@@ -38,10 +38,6 @@ export class DashboardComponent implements OnInit{
   
 
 // lllllll
-
-
-
-
   // kkkkk
   todo1_count : number=0 
   complete_count : number= 0
